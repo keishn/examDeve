@@ -1,0 +1,4 @@
+rootProject.name = 'examDeve'
+include 'module'
+include 'sub_module'
+
